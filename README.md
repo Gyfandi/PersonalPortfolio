@@ -6,7 +6,7 @@ Website portofolio personal berbasis **HTML5 dan CSS3** untuk memperkenalkan pro
 
 | | |
 |---|---|
-| Nama | Gyfandi Mecca Firstson Cusy* |
+| Nama | Gyfandi Mecca Firstson Cusy |
 | NIM | 20241-505 |
 
 ## Deskripsi Singkat
